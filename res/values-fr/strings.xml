@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lampe de poche</string>
+    <string name="notification_title">lampe de poche sur!</string>
+    <string name="notification_content">Cliquez Désactivation de poche</string>
+	
+</resources>

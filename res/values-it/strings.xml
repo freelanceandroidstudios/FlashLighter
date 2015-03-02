@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lampeggia più leggero</string>
+    <string name="notification_title">torcia On!</string>
+    <string name="notification_content">clicca per spegnere la torcia elettrica</string>
+	
+</resources>

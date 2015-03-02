@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Linterna Eléctrica</string>
+    <string name="notification_title">linterna está en!</string>
+    <string name="notification_content">haga clic para desactivar la linterna</string>
+
+</resources>

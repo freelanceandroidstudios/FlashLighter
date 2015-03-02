@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blitz Feuerzeug</string>
+    <string name="notification_title">Taschenlampe On!</string>
+    <string name="notification_content">Klicken Sie zum Ausschalten Taschenlampe</string>
+	
+</resources>
